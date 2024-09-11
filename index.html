@@ -8,11 +8,25 @@
     <title>Document</title>
   </head>
   <body>
+    <header>
+      <h1>وبسایت فروشگاهی</h1>
+      <details>
+        <summary>مدل OOP</summary>
+        <p>Object Oriented Programming</p>
+      </details>
+    </header>
     <main>
-        <section id="products">
-            
-        </section>    
+      <section id="products"></section>
+      <section id="cart">
+        <h3>سبد خرید</h3>
+          <section id="cart-list"><h5>خالی</h5></section>
+          <section id="total-price">هزینه کل: <span>0</span></section>
+        </section>
+      </section>
     </main>
-    <script src="js/index.js"></script>
+
+    <!-- Scripts and modules -->
+    <script src="js/index.js" type="module"></script>
+    <script src="utils/httpReq.js" type="module"></script>
   </body>
 </html>

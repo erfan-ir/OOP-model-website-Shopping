@@ -1,66 +1,65 @@
 [
-    {
-      "id": 1,
-      "name": "Bag",
-      "price": 29,
-      "image": "./img/bag.png",
-      "alt": "bag product"
-    },
-    {
-      "id": 2,
-      "name": "Pen",
-      "price": 3,
-      "image": "./img/pen.png",
-      "alt": "pen product"
-    },
-    {
-      "id": 3,
-      "name": "Note Book",
-      "price": 12,
-      "image": "./img/note-book.png",
-      "alt": "note book product"
-    },
-    {
-      "id": 4,
-      "name": "Colored Pencils",
-      "price": 11,
-      "image": "./img/colored-pencils.png",
-      "alt": "colored pencils product"
-    },
-    {
-      "id": 5,
-      "name": "Pencil",
-      "price": 3,
-      "image": "./img/pencil.png",
-      "alt": "pencil product"
-    },
-    {
-      "id": 6,
-      "name": "Ruler",
-      "price": 8,
-      "image": "./img/ruler.png",
-      "alt": "ruler product"
-    },
-    {
-      "id": 7,
-      "name": "Mug",
-      "price": 17,
-      "image": "./img/mug.png",
-      "alt": "mug product"
-    },
-    {
-      "id": 8,
-      "name": "Eraser",
-      "price": 2,
-      "image": "./img/eraser.png",
-      "alt": "eraser product"
-    },
-    {
-      "id": 9,
-      "name": "Glue Stick",
-      "price": 5,
-      "image": "./img/glue-stick.png",
-      "alt": "glue stick product"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "کیف",
+    "price": 150000,
+    "image": "./images/bag.png",
+    "alt": "bag product"
+  },
+  {
+    "id": 2,
+    "name": "خودکار",
+    "price": 10000,
+    "image": "./images/pen.png",
+    "alt": "pen product"
+  },
+  {
+    "id": 3,
+    "name": "دفترچه یادداشت",
+    "price": 36000,
+    "image": "./images/note-book.png",
+    "alt": "note book product"
+  },
+  {
+    "id": 4,
+    "name": "مداد رنگی",
+    "price": 43000,
+    "image": "./images/colored-pencils.png",
+    "alt": "colored pencils product"
+  },
+  {
+    "id": 5,
+    "name": "مداد",
+    "price": 15000,
+    "image": "./images/pencil.png",
+    "alt": "pencil product"
+  },
+  {
+    "id": 6,
+    "name": "خطکش",
+    "price": 23000,
+    "image": "./images/ruler.png",
+    "alt": "ruler product"
+  },
+  {
+    "id": 7,
+    "name": "لیوان",
+    "price": 28000,
+    "image": "./images/mug.png",
+    "alt": "mug product"
+  },
+  {
+    "id": 8,
+    "name": "پاکن",
+    "price": 12000,
+    "image": "./images/eraser.png",
+    "alt": "eraser product"
+  },
+  {
+    "id": 9,
+    "name": "چسب چوب",
+    "price": 67000,
+    "image": "./images/glue-stick.png",
+    "alt": "glue stick product"
+  }
+]
